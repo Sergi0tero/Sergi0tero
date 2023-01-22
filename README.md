@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Sergio 👋
 
 <!--
 **Sergi0tero/Sergi0tero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📖 Actualmente soy estudiante ingenieria de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito.
+- ✍ Conocimientos en diferentes lenguajes de programación. Experiencia en bases de datos, programación orientada a objetos, diagramado en UML, seguridad, buenas practicas y metodologías agiles de programación.
+- 💻 Me gusta aprender nuevos lenguajes de programación. Interesado en el desarrollo de software.
+- 📫 https://www.linkedin.com/in/sergio-andrés-otero-herrera-87a05624b/
